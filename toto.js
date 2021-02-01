@@ -9,9 +9,9 @@ if (time<10)
 { alert ('good morning');
 }
 else if (time < 20){
-    alert ('good day');
+   alert ('good day');
 } else {
-    alert ('good evening');
+   alert ('good evening');
 }
 
 
